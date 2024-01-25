@@ -1,4 +1,6 @@
-### sistema de chat em tempo rea
+### sistema de chat em tempo real
+
+## tecnologias usadas
 <ul>
   <li>Spring boot</li>
   <li>websockets</li>
